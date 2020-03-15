@@ -10,7 +10,7 @@ The dataset that I’m working with is MovieLens, one of the most common dataset
 
 An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner.The aim of an autoencoder is to learn a representation (encoding) for a set of data, typically for dimensionality reduction. Recently, the autoencoder concept has become more widely used for learning generative models of data.Some of the most powerful AI in the 2010s have involved sparse autoencoders stacked inside of deep neural networks
 <h4>Requirements</h4>
-Python
-PyTorch
-Numpy
-Pandas
+<li>Python</li>
+<li>PyTorch</li>
+<li>Numpy</li>
+<li>Pandas</li>
